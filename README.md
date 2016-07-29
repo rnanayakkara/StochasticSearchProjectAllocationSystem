@@ -4,20 +4,20 @@
 	agents(students) in order to respect the preferences of the agents and to maximize some measure of global utility.
 
 02. File List
-Packages
-cs.resourceallocationapp.app
-cs.resourceallocationapp.model
-cs.resourceallocationapp.utility
+	Packages : 
+	cs.resourceallocationapp.app, 
+	cs.resourceallocationapp.model, 
+	cs.resourceallocationapp.utility
 	
-Files
-ResourceAllocation.java
-ResourceAllocationForm.java
-CandidateAssignment.java
-CandidateSolution.java
-PreferenceTable.java
-StudentEntry.java
-FileTypeFilter.java
-ResourceAllocationTableRender.java
+	Files : 
+	ResourceAllocation.java, 
+	ResourceAllocationForm.java, 
+	CandidateAssignment.java, 
+	CandidateSolution.java, 
+	PreferenceTable.java, 
+	StudentEntry.java, 
+	FileTypeFilter.java, 
+	ResourceAllocationTableRender.java
 	
 03. Algorithms Used
 	---------------------------------------
